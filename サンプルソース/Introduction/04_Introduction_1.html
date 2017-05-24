@@ -7,6 +7,38 @@
 
 </head>
 	<body>
-	
+	    <script src="mithril.js"></script>
+	    <script>
+			var root = document.body
+			var Hello = {
+						    view: function() {
+						        return m("main", [
+						            m("h1", {class: "title"}, "最初のMithrilアプリケーション"),
+						            m("button", "ボタン"),
+						        ])
+						    }
+						}
+						
+
+			var Splash = {
+			    view: function() {
+			        return m("a", {href: "#!/hello"}, "ようこそ!")
+			        //return m("a", {href: "#!/splash"}, "ようこそ!")
+
+			    }
+			}
+			
+			/*
+			モジュールを定義する
+			「:」を前に付いた単語を書くことで、ラウトに引数を設定することができます
+			*/
+			
+			m.route(root, "/splash", {
+			    "/splash": Splash,
+			    "/hello": Hello,
+			});
+			
+	    </script>
+	    
 	</body>
 </html>
