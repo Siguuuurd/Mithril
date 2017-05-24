@@ -22,20 +22,23 @@
 
 			var Splash = {
 			    view: function() {
-			        return m("a", {href: "#!/hello"}, "ようこそ!")
+			        return m("a", {href: "#!hello_Key"}, "ようこそ!")
 			        //return m("a", {href: "#!/splash"}, "ようこそ!")
 
 			    }
 			}
 			
 			/*
-			モジュールを定義する
-			「:」を前に付いた単語を書くことで、ラウトに引数を設定することができます
+			.route関数はm.mountと同じ自動再描画機能を持っています。
+			これに加えて、URLの変更に対応することができます。
+			URLに#!の文字を見つけたら、Mithrilに何をするか教えます。
+			
+			rootのすぐ右にある"/splash"はデフォルトのラウトです
 			*/
 			
-			m.route(root, "/splash", {
-			    "/splash": Splash,
-			    "/hello": Hello,
+			m.route(root, "splash1", {
+			    "splash_Key": Splash,
+			    "hello_Key": Hello,
 			});
 			
 	    </script>
