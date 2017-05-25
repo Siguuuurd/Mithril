@@ -33,14 +33,14 @@ mithril.js-next/
 	│ │  │  └ index.html  
 	│ │  ├ mithril/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
-	│ │  ├ react/  
+	│ │  │  └ index.html  
+	│ │  ├ react/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
-	│ │  ├ vue/  
+	│ │  │  └ index.html  
+	│ │  ├ vue/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
-	│ │  ├ ENV.js  
+	│ │  │  └ index.html  
+	│ │  ├ ENV.js  
 	│ │  ├ memory-stats.js  
 	│ │  ├ monitor.js  
 	│ │  └ styles.css  
@@ -68,8 +68,8 @@ mithril.js-next/
 	│ │ └ ospec.cmd  
 	│ └ tests/  
 	│    ├ ospec  
-	│    └ ospec.cmd 
-	├ performance/  
+	│    └ ospec.cmd  
+	├ performance/  
 	│ ├ index.html  
 	│ └ test-perf.js  
 	├ promise/  
@@ -106,15 +106,15 @@ mithril.js-next/
 	│ │  ├ test-oncreate.js  
 	│ │  ├ test-oninit.js  
 	│ │  ├ test-onremove.js  
-	│ │  ├ test-onupdate.js 
-	│ │  ├ test-render.js  
+	│ │  ├ test-onupdate.js  
+	│ │  ├ test-render.js  
 	│ │  ├ test-textContent.js  
 	│ │  ├ test-trust.js  
 	│ │  ├ test-updateElement.js  
 	│ │  ├ test-updateFragment.js  
 	│ │  ├ test-updateHTML.js  
-	│ │  ├ test-updateNodes.js 
-	│ │  └ test-updateText.js  
+	│ │  ├ test-updateNodes.js  
+	│ │  └ test-updateText.js  
 	│ └ promise.js  
 	├ request/  
 	│ ├ tests/  
@@ -122,8 +122,8 @@ mithril.js-next/
 	│ │  ├ test-jsonp.js  
 	│ │  └ test-request.js  
 	│ └  request.js
-	├ router/  
-	│ ├ tests/  
+	├ router/   
+	│ ├ tests/  
 	│ │  ├ index.html  
 	│ │  ├ test-defineRoutes.js  
 	│ │  ├ test-getPath.js  
