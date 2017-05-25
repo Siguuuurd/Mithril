@@ -11,7 +11,7 @@ mithril.js-next/
 	│ ├ redraw.js  
 	│ └ router.js  
 	│  
-	├ bundler/  
+	├ [bundler/](ModuleBundler.md)  
 	│ ├ bin/  
 	│ │ ├ bundle  
 	│ │ └ bundle.cmd  
