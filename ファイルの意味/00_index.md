@@ -122,8 +122,8 @@ mithril.js-next/
 	│ │  ├ test-jsonp.js  
 	│ │  └ test-request.js  
 	│ └  request.js
-	├ router/  
-	│ ├ tests/  
+	├ router/   
+	│ ├ tests/  
 	│ │  ├ index.html  
 	│ │  ├ test-defineRoutes.js  
 	│ │  ├ test-getPath.js  
