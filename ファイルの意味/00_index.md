@@ -2,7 +2,7 @@
 
 mithril.js-next/  
 	├ api/  
-	│ ├ tests/
+	│ ├ tests/  
 	│ │  ├ index.html  
 	│ │  ├ test-mount.js  
 	│ │  ├ test-redraw.js  
@@ -135,7 +135,7 @@ mithril.js-next/
 	│ │  ├ test-scan.js  
 	│ │  ├ test-scanMerge.js  
 	│ │  └ test-stream.js  
-	│ ├ package.json
+	│ ├ package.json  
 	│ └ stream.js  
 	├ tests/  
 	│ ├ index.html  
@@ -150,38 +150,38 @@ mithril.js-next/
 	│ │  ├ test-parseURL.js  
 	│ │  ├ test-pushStateMock.js  
 	│ │  └ test-xhrMock.js  
-	│ ├ browserMock.js
-	│ ├ callAsync.js
-	│ ├ components.js
-	│ ├ domMock.js
-	│ ├ parseURL.js
-	│ ├ pushStateMock.js
+	│ ├ browserMock.js  
+	│ ├ callAsync.js  
+	│ ├ components.js  
+	│ ├ domMock.js  
+	│ ├ parseURL.js  
+	│ ├ pushStateMock.js  
 	│ ├ README.md
-	│ └ xhrMock.js
+	│ └ xhrMock.js  
 	├ util/  
 	│ ├ tests/  
 	│ │  ├ index.html  s  
 	│ │  └ test-withAttr.js  
-	│ └ withAttr.js
-	├ .deploy.enc
-	├ .editorconfig
-	├ .eslintignore
-	├ .eslintrc.js
-	├ .gitattributes
-	├ .gitignore
-	├ .npmignore
-	├ .travis.yml
-	├ browser.js
-	├ hyperscript.js
-	├ index.js
-	├ LICENSE
-	├ mithril.js
-	├ mithril.min.js
-	├ mount.js
-	├ package.json
-	├ README.md
-	├ redraw.js
-	├ render.js
-	├ request.js
-	├ route.js
-	└ stream.js
+	│ └ withAttr.js  
+	├ .deploy.enc  
+	├ .editorconfig  
+	├ .eslintignore  
+	├ .eslintrc.js  
+	├ .gitattributes  
+	├ .gitignore  
+	├ .npmignore  
+	├ .travis.yml  
+	├ browser.js  
+	├ hyperscript.js  
+	├ index.js  
+	├ LICENSE  
+	├ mithril.js  
+	├ mithril.min.js  
+	├ mount.js  
+	├ package.json  
+	├ README.md  
+	├ redraw.js  
+	├ render.js  
+	├ request.js  
+	├ route.js  
+	└ stream.js  
