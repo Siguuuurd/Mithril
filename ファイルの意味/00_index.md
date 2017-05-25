@@ -45,7 +45,7 @@ mithril.js-next/
 	│ │  ├ monitor.js  
 	│ │  └ styles.css  
 	│ ├ editor/  
-	│ │  └ index.html 
+	│ │  └ index.html  
 	│ ├ svg/  
 	│ │  ├ clock.html  
 	│ │  ├ ring.html  
@@ -107,7 +107,7 @@ mithril.js-next/
 	│ │  ├ test-oninit.js  
 	│ │  ├ test-onremove.js  
 	│ │  ├ test-onupdate.js  
-	│ │  ├ test-render.js  
+	│ │  ├ test-render.js  
 	│ │  ├ test-textContent.js  
 	│ │  ├ test-trust.js  
 	│ │  ├ test-updateElement.js  
@@ -123,7 +123,7 @@ mithril.js-next/
 	│ │  └ test-request.js  
 	│ └  request.js
 	├ router/  
-	│ ├ tests/  
+	│ ├ tests/  
 	│ │  ├ index.html  
 	│ │  ├ test-defineRoutes.js  
 	│ │  ├ test-getPath.js  
@@ -156,7 +156,7 @@ mithril.js-next/
 	│ ├ domMock.js  
 	│ ├ parseURL.js  
 	│ ├ pushStateMock.js  
-	│ ├ README.md
+	│ ├ README.md  
 	│ └ xhrMock.js  
 	├ util/  
 	│ ├ tests/  
