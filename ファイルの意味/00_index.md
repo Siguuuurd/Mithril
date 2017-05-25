@@ -68,7 +68,7 @@ mithril.js-next/
 	│ │ └ ospec.cmd  
 	│ └ tests/  
 	│    ├ ospec  
-	│    └ ospec.cmd  
+	│   └ ospec.cmd  
 	├ performance/  
 	│ ├ index.html  
 	│ └ test-perf.js  
@@ -122,7 +122,7 @@ mithril.js-next/
 	│ │  ├ test-jsonp.js  
 	│ │  └ test-request.js  
 	│ └  request.js
-	├ router/   
+	├ router/  
 	│ ├ tests/  
 	│ │  ├ index.html  
 	│ │  ├ test-defineRoutes.js  
