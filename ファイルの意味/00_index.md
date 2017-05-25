@@ -1,4 +1,4 @@
-#Mithrilのファイルの意味
+# Mithrilのファイルの意味
 
 mithril.js-next/  
 	├ api/  
@@ -10,7 +10,7 @@ mithril.js-next/
 	│ ├ mount.js  
 	│ ├ redraw.js  
 	│ └ router.js  
-	│ 
+	│  
 	├ bundler/  
 	│ ├ bin/  
 	│ │ ├ bundle  
@@ -33,13 +33,13 @@ mithril.js-next/
 	│ │  │  └ index.html  
 	│ │  ├ mithril/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
+	│ │  │  └ index.html  
 	│ │  ├ react/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
+	│ │  │  └ index.html  
 	│ │  ├ vue/  
 	│ │  │  ├ app.js  
-	│ │  │  └ index.html 
+	│ │  │  └ index.html  
 	│ │  ├ ENV.js  
 	│ │  ├ memory-stats.js  
 	│ │  ├ monitor.js  
@@ -68,7 +68,7 @@ mithril.js-next/
 	│ │ └ ospec.cmd  
 	│ └ tests/  
 	│    ├ ospec  
-	│    └ ospec.cmd 
+	│    └ ospec.cmd  
 	├ performance/  
 	│ ├ index.html  
 	│ └ test-perf.js  
@@ -99,21 +99,21 @@ mithril.js-next/
 	│ │  ├ test-fragment.js  
 	│ │  ├ test-hyperscript.js  
 	│ │  ├ test-input.js  
-	│ │  ├ test-normalize.js 
+	│ │  ├ test-normalize.js  
 	│ │  ├ test-normalizeChildren.js  
 	│ │  ├ test-onbeforeremove.js  
 	│ │  ├ test-onbeforeupdate.js  
 	│ │  ├ test-oncreate.js  
 	│ │  ├ test-oninit.js  
 	│ │  ├ test-onremove.js  
-	│ │  ├ test-onupdate.js 
-	│ │  ├ test-render.js  
+	│ │  ├ test-onupdate.js  
+	│ │  ├ test-render.js  
 	│ │  ├ test-textContent.js  
 	│ │  ├ test-trust.js  
 	│ │  ├ test-updateElement.js  
 	│ │  ├ test-updateFragment.js  
 	│ │  ├ test-updateHTML.js  
-	│ │  ├ test-updateNodes.js 
+	│ │  ├ test-updateNodes.js  
 	│ │  └ test-updateText.js  
 	│ └ promise.js  
 	├ request/  
@@ -128,7 +128,7 @@ mithril.js-next/
 	│ │  ├ test-defineRoutes.js  
 	│ │  ├ test-getPath.js  
 	│ │  └ test-setPath.js  
-	│ └ router.js
+	│ └ router.js  
 	├ stream/  
 	│ ├ tests/  
 	│ │  ├ index.html  
@@ -160,7 +160,7 @@ mithril.js-next/
 	│ └ xhrMock.js  
 	├ util/  
 	│ ├ tests/  
-	│ │  ├ index.html  s  
+	│ │  ├ index.html  
 	│ │  └ test-withAttr.js  
 	│ └ withAttr.js  
 	├ .deploy.enc  
