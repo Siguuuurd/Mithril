@@ -10,7 +10,7 @@ mithril.js-next/
 	│ ├ mount.js  
 	│ ├ redraw.js  
 	│ └ router.js  
-	│ 
+	│  
 	├ bundler/  
 	│ ├ bin/  
 	│ │ ├ bundle  
@@ -34,13 +34,13 @@ mithril.js-next/
 	│ │  ├ mithril/  
 	│ │  │  ├ app.js  
 	│ │  │  └ index.html  
-	│ │  ├ react/  
+	│ │  ├ react/  
 	│ │  │  ├ app.js  
 	│ │  │  └ index.html  
-	│ │  ├ vue/  
+	│ │  ├ vue/  
 	│ │  │  ├ app.js  
 	│ │  │  └ index.html  
-	│ │  ├ ENV.js  
+	│ │  ├ ENV.js  
 	│ │  ├ memory-stats.js  
 	│ │  ├ monitor.js  
 	│ │  └ styles.css  
@@ -69,7 +69,7 @@ mithril.js-next/
 	│ └ tests/  
 	│    ├ ospec  
 	│    └ ospec.cmd  
-	├ performance/  
+	├ performance/  
 	│ ├ index.html  
 	│ └ test-perf.js  
 	├ promise/  
@@ -99,7 +99,7 @@ mithril.js-next/
 	│ │  ├ test-fragment.js  
 	│ │  ├ test-hyperscript.js  
 	│ │  ├ test-input.js  
-	│ │  ├ test-normalize.js 
+	│ │  ├ test-normalize.js  
 	│ │  ├ test-normalizeChildren.js  
 	│ │  ├ test-onbeforeremove.js  
 	│ │  ├ test-onbeforeupdate.js  
@@ -114,7 +114,7 @@ mithril.js-next/
 	│ │  ├ test-updateFragment.js  
 	│ │  ├ test-updateHTML.js  
 	│ │  ├ test-updateNodes.js  
-	│ │  └ test-updateText.js  
+	│ │  └ test-updateText.js  
 	│ └ promise.js  
 	├ request/  
 	│ ├ tests/  
@@ -128,7 +128,7 @@ mithril.js-next/
 	│ │  ├ test-defineRoutes.js  
 	│ │  ├ test-getPath.js  
 	│ │  └ test-setPath.js  
-	│ └ router.js
+	│ └ router.js  
 	├ stream/  
 	│ ├ tests/  
 	│ │  ├ index.html  
@@ -160,7 +160,7 @@ mithril.js-next/
 	│ └ xhrMock.js  
 	├ util/  
 	│ ├ tests/  
-	│ │  ├ index.html  s  
+	│ │  ├ index.html  
 	│ │  └ test-withAttr.js  
 	│ └ withAttr.js  
 	├ .deploy.enc  
