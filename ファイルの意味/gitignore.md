@@ -1,5 +1,7 @@
-## .gitignore とは？  
+# .gitignore
 http://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff  
+
+## .gitignore とは？  
 Gitの管理に含めないファイルを指定するためのファイル。  
 ## 設定方法
 - 無視設定を行いたいフォルダに .gitignore という名前でテキストファイルを作成する。  

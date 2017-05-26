@@ -1,16 +1,14 @@
-# .deploy.enc
+# .gitignore
+http://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff  
 
-## depoy
-http://www.weblio.jp/content/%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4  
-ƒfƒvƒƒC‚Æ‚ÍAŽå‚Éƒlƒbƒgƒ[ƒN‚ð’Ê‚¶‚Ä’ñ‹Ÿ‚³‚ê‚éWebƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚È‚Ç‚ÌƒVƒXƒeƒ€ŠJ”­H’ö‚É‚¨‚¢‚ÄAƒVƒXƒeƒ€‚ð—˜—p‰Â”\‚Èó‘Ô‚É‚·‚é‚±‚Æ‚Å‚ ‚éB  
-
-ƒfƒvƒƒCideployj‚Æ‚¢‚¤Œ¾—t‚ÍŒ³XA”z’u‚·‚éA“WŠJ‚·‚é‚Æ‚¢‚Á‚½ˆÓ–¡‚Ì‰pŒê‚Å‚ ‚éBƒfƒvƒƒC‚Íƒ\ƒtƒgƒEƒFƒA‚ÌƒŠƒŠ[ƒX‚âƒCƒ“ƒXƒg[ƒ‹‚àŠÜ‚ñ‚¾ˆÓ–¡‚ÌL‚¢Œ¾—t‚Å‚ ‚èAŠJ”­ŠÂ‹«‚©‚çƒXƒe[ƒWƒ“ƒOŠÂ‹«‚ÖƒVƒXƒeƒ€‚ð”½‰f‚³‚¹‚é‚±‚Æ‚àAƒXƒe[ƒWƒ“ƒOŠÂ‹«‚©‚ç–{”ÔŠÂ‹«‚Ö”½‰f‚³‚¹‚é‚±‚Æ‚àAuƒfƒvƒƒC‚·‚év‚Æ•\Œ»‚Å‚«‚éB  
-
-WebƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ðƒfƒvƒƒC‚·‚éÛA’Êí‚ÍƒT[ƒo[‚ðÄ‹N“®‚µ‚Ä“à—e‚ð”½‰f‚³‚¹‚é•K—v‚ª‚ ‚éBƒT[ƒo[‚ðÄ‹N“®‚³‚¹‚¸‚ÉƒfƒvƒƒC‚µ‚½“à—e‚ð”½‰f‚Å‚«‚é‹@”\‚ÍAƒzƒbƒgƒfƒvƒƒC‚ÆŒÄ‚Î‚ê‚éB  
-
-## .encŠg’£Žq
-http://pc-kaden.net/log/eid286.html  
-Šg’£Žqenc‚Ì‚Â‚¢‚½ƒtƒ@ƒCƒ‹‚ÍuEDv‚Æ‚¢‚¤ˆÃ†‰»ƒ\ƒtƒg‚ÅˆÃ†‰»‚³‚ê‚½ƒtƒ@ƒCƒ‹‚Å‚·BŠg’£Žqenc‚Ìƒtƒ@ƒCƒ‹‚Í‚±‚ÌuEDv‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚é‚±‚Æ‚ÅŠJ‚­‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚·B  
-
-
-ED(ƒC[ƒfƒB[)‚Í‹­—Í‚ÈˆÃ†‰»ƒAƒ‹ƒSƒŠƒYƒ€‚ÆAŽg‚¢ŸŽèdŽ‹‚ÌƒVƒXƒeƒ€‚ªƒEƒŠ‚ÌAWindows—pƒtƒŠ[ƒEƒFƒAƒtƒ@ƒCƒ‹ˆÃ†‰»ƒc[ƒ‹‚Å‚·BŠÈ’P‚È‘€ì‚ÅAƒtƒ@ƒCƒ‹‚ðŽ©Ý‚ÉˆÃ†‰»‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B—á‚¦‚ÎƒfƒBƒŒƒNƒgƒŠ‚²‚ÆˆÃ†‰»‚µ‚Äƒn[ƒhƒfƒBƒXƒN‚Ì’†g‚ð•ÛŒì‚µ‚½‚èAƒCƒ“ƒ^[ƒlƒbƒg‚Å”é–§‚Ìƒtƒ@ƒCƒ‹‚ð‘—‚è‚½‚¢ê‡‚È‚Ç‚ÉÅ“K‚Å‚·BˆÃ†‰»‚³‚ê‚½ƒtƒ@ƒCƒ‹‚ÍˆÃ†‰»Žž‚ÉÝ’è‚µ‚½ƒpƒXƒ[ƒh‚ð—p‚¢‚Ä•œ†(Œ³‚É‚à‚Ç‚·)‚·‚é‚Ü‚Å‘S‚­ˆÓ–¡‚ð¬‚³‚È‚­‚È‚è‚Ü‚·B  
+## .gitignore ã¨ã¯ï¼Ÿ  
+Gitã®ç®¡ç†ã«å«ã‚ãªã„ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®šã™ã‚‹ãŸã‚ã®ãƒ•ã‚¡ã‚¤ãƒ«ã€‚  
+## è¨­å®šæ–¹æ³•
+- ç„¡è¦–è¨­å®šã‚’è¡Œã„ãŸã„ãƒ•ã‚©ãƒ«ãƒ€ã« .gitignore ã¨ã„ã†åå‰ã§ãƒ†ã‚­ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã™ã‚‹ã€‚  
+	- Windowsæ¨™æº–ã®ãƒ¡ãƒ¢å¸³ãªã©ä¸€éƒ¨ã®ã‚¨ãƒ‡ã‚£ã‚¿ã§ã¯ã€æ‹¡å¼µå­ã®ã¿ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ç”Ÿæˆã§ããªã„ã®ã§ã€ã©ã¡ã‚‰ã‹ã®æ‰‹é †ã§ä½œæˆã™ã‚‹  
+		- æ‹¡å¼µå­ã®ã¿ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œã‚Œã‚‹ã‚¨ãƒ‡ã‚£ã‚¿ã‚’åˆ©ç”¨ã™ã‚‹  
+		- æ—¢ã«ã‚ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚³ãƒ”ãƒ¼ã—ã¦ãã‚‹  
+	- MACã¯æ¨™æº–ã®è¨­å®šã§ã¯ã€æ‹¡å¼µå­ã®ã¿ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ Finder ä¸Šã«è¡¨ç¤ºã•ã‚Œã¾ã›ã‚“ã€‚  
+- ç„¡è¦–ã—ãŸã„ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä¸‹ã®ãƒ‘ã‚¿ãƒ¼ãƒ³ã‚’ã‚‚ã¨ã« .gitignore å†…ã§æŒ‡å®šã™ã‚‹ã€‚
+- è¨­å®šã®æœ‰åŠ¹ç¯„å›²ã¯ .gitignore ãƒ•ã‚¡ã‚¤ãƒ«ã®æœ‰ã‚‹ãƒ•ã‚©ãƒ«ãƒ€å†…å…¨éƒ¨ã€‚  
+- ãƒªãƒã‚¸ãƒˆãƒªã®ãƒ«ãƒ¼ãƒˆã«ã‚ã‚‹å¿…è¦ã¯ãªãã€ãƒªãƒã‚¸ãƒˆãƒªå†…ã«è¤‡æ•°ã‚ã£ã¦ã‚‚ã‚ˆã„ã€‚  
