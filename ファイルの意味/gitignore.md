@@ -1,14 +1,14 @@
 # .gitignore
 http://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff  
 
-## .gitignore �Ƃ́H  
-Git�̊Ǘ��Ɋ܂߂Ȃ��t�@�C�����w�肷�邽�߂̃t�@�C���B  
-## �ݒ���@
-- �����ݒ���s�������t�H���_�� .gitignore �Ƃ������O�Ńe�L�X�g�t�@�C�����쐬����B  
-	- Windows�W���̃������Ȃǈꕔ�̃G�f�B�^�ł́A�g���q�݂̂̃t�@�C���͐����ł��Ȃ��̂ŁA�ǂ��炩�̎菇�ō쐬����  
-		- �g���q�݂̂̃t�@�C��������G�f�B�^�𗘗p����  
-		- ���ɂ���t�@�C�����R�s�[���Ă���  
-	- MAC�͕W���̐ݒ�ł́A�g���q�݂̂̃t�@�C���� Finder ��ɕ\������܂���B  
-- �����������t�@�C�������̃p�^�[�������Ƃ� .gitignore ���Ŏw�肷��B
-- �ݒ�̗L���͈͂� .gitignore �t�@�C���̗L��t�H���_���S���B  
-- ���|�W�g���̃��[�g�ɂ���K�v�͂Ȃ��A���|�W�g�����ɕ��������Ă��悢�B  
+## .gitignore とは？  
+Gitの管理に含めないファイルを指定するためのファイル。  
+## 設定方法
+- 無視設定を行いたいフォルダに .gitignore という名前でテキストファイルを作成する。  
+	- Windows標準のメモ帳など一部のエディタでは、拡張子のみのファイルは生成できないので、どちらかの手順で作成する  
+		- 拡張子のみのファイルを作れるエディタを利用する  
+		- 既にあるファイルをコピーしてくる  
+	- MACは標準の設定では、拡張子のみのファイルは Finder 上に表示されません。  
+- 無視したいファイルを下のパターンをもとに .gitignore 内で指定する。
+- 設定の有効範囲は .gitignore ファイルの有るフォルダ内全部。  
+- リポジトリのルートにある必要はなく、リポジトリ内に複数あってもよい。  
