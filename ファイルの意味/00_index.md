@@ -172,7 +172,7 @@ mithril.js-next/
 	├ [.npmignore]()  
 	├ [.travis.yml]()  
 	├ [browser.js]()  
-	├ [[hyperscript.js]()  
+	├ [hyperscript.js]()  
 	├ [index.js]()  
 	├ [LICENSE]()  
 	├ [mithril.js]()  
