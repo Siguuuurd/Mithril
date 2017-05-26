@@ -163,8 +163,8 @@ mithril.js-next/
 	│ │  ├ index.html  
 	│ │  └ test-withAttr.js  
 	│ └ withAttr.js  
-	├ .deploy.enc  
-	├ .editorconfig  
+	├ [.deploy.enc](deploy_enc.md)  
+	├ [.editorconfig](editorconfig.md)  
 	├ .eslintignore  
 	├ .eslintrc.js  
 	├ .gitattributes  
