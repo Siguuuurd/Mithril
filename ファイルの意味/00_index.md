@@ -165,9 +165,9 @@ mithril.js-next/
 	│ └ withAttr.js  
 	├ [.deploy.enc](deploy_enc.md)  
 	├ [.editorconfig](editorconfig.md)  
-	├ [.eslintignore](editorconfig.md)  
-	├ [.eslintrc.js]()  
-	├ [.gitattributes]()  
+	├ [.eslintignore](eslintignore.md)  
+	├ [.eslintrc.js](eslintrc_js.md)  
+	├ [.gitattributes](gitattributes.md)  
 	├ [.gitignore]()  
 	├ [.npmignore]()  
 	├ [.travis.yml]()  
