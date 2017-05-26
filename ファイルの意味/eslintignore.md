@@ -1,23 +1,22 @@
 # .eslintignore
 
   
-## eslintignore��lint�������Ȃ�����(�����������)��ݒ�
+## eslintignoreでlintしたくないもの(無視するもの)を設定
 http://qiita.com/inuscript/items/8610d3806a3f94d7d1d0  
-lint���Ȃ��t�@�C���̎w��Bgitignore�Ƃ��ƈꏏ�̌`��  
-���̂����肪�S���Btest���܂߂邩�ǂ����͎�ɂ��Ƃ��납��  
-bower�Ƃ��g�킸DL�����t�@�C�����ǂ����玝���Ă��Ă���悤�ȏꍇ���Ƃ�������܂߂�ׂ����낤�B  
+lintしないファイルの指定。gitignoreとかと一緒の形式  
+このあたりが鉄板か。testを含めるかどうかは趣味によるところかも  
+bowerとか使わずDLしたファイルをどこから持ってきているような場合だとそいつらも含めるべきだろう。  
   
 ```
 node_modules/
 test/
 ```
   
-## ESLint�Ƃ�
+## ESLintとは
 http://tech.connehito.com/entry/2016/04/04/122802  
-JavaScript�̃R�[�h�̏��������`�F�b�N���邽�߂�Linter�ł��B  
-��ɃC���f���g�̃Y���A����` or ���g�p�̕ϐ�������A�Z�~�R�����������A�Ȃǂ����m���Čx����G���[���o���Ă���܂��B  
-  
+JavaScriptのコードの書き方をチェックするためのLinterです。  
+主にインデントのズレ、未定義 or 未使用の変数がある、セミコロンが無い、などを検知して警告やエラーを出してくれます。  
   
 https://techblog.yahoo.co.jp/javascript/how-to-create-eslint-rules/  
-ESLint�́AJavaScript�̐ÓI���؃c�[���ŁA�o�O�̌����ɂȂ肻���Ȗ��̂���R�[�h����������A  
-�C���f���g���⊇�ʑO��̃X�y�[�X�Ȃǂ̃R�[�f�B���O�X�^�C���𓝈ꂷ��̂ɖ𗧂��܂��B  
+ESLintは、JavaScriptの静的検証ツールで、バグの原因になりそうな問題のあるコードを見つけたり、  
+インデント数や括弧前後のスペースなどのコーディングスタイルを統一するのに役立ちます。  

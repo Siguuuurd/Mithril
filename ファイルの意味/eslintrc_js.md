@@ -1,20 +1,20 @@
 # eslintrc.js
 
 
-## ESLint �ŏ��̈��
- ���L��URL��ESLint�������₷���T�C�g(ESLint �ŏ��̈��)
+## ESLint 最初の一歩
+ 下記のURLはESLint理解しやすいサイト(ESLint 最初の一歩)
 http://qiita.com/mysticatea/items/f523dab04a25f617c87d  
   
-ESLint �� JavaScript �̂��߂̐ÓI���؃c�[���ł��B  
-�R�[�h�����s����O�ɖ��炩�ȃo�O����������A���ʂ�X�y�[�X�̎g�����Ȃǂ̃X�^�C���𓝈ꂵ���肷��̂ɖ𗧂��܂��B���l�̃c�[���Ƃ��Ă� JSLint, JSHint ��������܂��B  
+ESLint は JavaScript のための静的検証ツールです。  
+コードを実行する前に明らかなバグを見つけたり、括弧やスペースの使い方などのスタイルを統一したりするのに役立ちます。同様のツールとしては JSLint, JSHint 等があります。  
 
-### ���[���̐ݒ�
-���[���̖��O�F�l
+### ルールの設定
+ルールの名前：値
 
-- "error" ... ���[���ᔽ��������ƃG���[�ɂ��܂��B
-- "warn" ..... ���[���ᔽ��������ƌx�����܂��B
-- "off" ....... ���[���ᔽ�������Ă��������܂���B
+- "error" ... ルール違反を見つけるとエラーにします。
+- "warn" ..... ルール違反を見つけると警告します。
+- "off" ....... ルール違反を見つけても何もしません。
   
-## ESLint��Rule
-�ȉ����Q�ƁB  
+## ESLintのRule
+以下を参照。  
 http://eslint.org/docs/rules/  
